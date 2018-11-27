@@ -17,7 +17,7 @@ export const defaultMap = {
 };
 
 export const defaultView = {
-  lng: -75.1488,
-  lat: 39.9526,
-  zoom: 15,
+  lng: -73.9968,
+  lat: 40.7268,
+  zoom: 13,
 };

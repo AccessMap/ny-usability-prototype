@@ -75,12 +75,12 @@ class AccessMap extends Component {
         pitch={[0]}
         maxBounds={[
           [
-            -75.3493,
-            39.8696,
+            -74.0481,
+            40.5635,
           ],
           [
-            -74.9421,
-            40.0428,
+            -73.7100,
+            40.9174,
           ],
         ]}
         /* eslint-disable react/style-prop-object */
